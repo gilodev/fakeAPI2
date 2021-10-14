@@ -1,0 +1,425 @@
+{
+   "customers" : [
+      {
+        "ulid": 1,
+        "id":1,
+        "name": "Mabel Beatty",
+        "logo": "http://placeimg.com/640/480",
+        "email": "Frida94@yahoo.com",
+        "contact": "749-357-0599 x7079",
+        "state": true,
+        "company": "Jamaica",
+        "address": "629 Edd Ramp",
+        "createdAt": "2021-10-11T21:17:49.422Z",
+        "users": [
+          {
+            "createdAt": "2021-10-11T20:51:13.442Z",
+            "name": "Tom Mann",
+            "avatar": "https://cdn.fakercloud.com/avatars/weglov_128.jpg",
+            "money": "687.71",
+            "synchronisation": "2082-09-21T07:59:56.518Z",
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "createdAt": "2021-10-12T06:16:51.289Z",
+            "name": "Betsy Bins",
+            "avatar": "https://cdn.fakercloud.com/avatars/hiemil_128.jpg",
+            "money": "521.85",
+            "synchronisation": "2064-01-04T10:16:04.375Z",
+            "ulid": 2,
+            "id": 2
+          }
+        ],
+        "comments": [
+          {
+            "createdAt": "2021-10-12T05:59:27.068Z",
+            "username": "Kevin Ziemann",
+            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+            "content": "est laborum architecto",
+            "companyName": "Sauer LLC",
+            "role": "role 1",
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "createdAt": "2021-10-11T18:22:27.997Z",
+            "username": "Frankie Ratke",
+            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
+            "content": "ea ea tenetur",
+            "companyName": "Rau and Sons",
+            "role": "role 2",
+            "ulid": 2,
+            "id": 2
+          }
+        ],
+        "permissions": [
+          {
+            "label": "Recevoir les emails de création de colis",
+            "state": false,
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "label": "Recevoir les sms de création de colis",
+            "state": true,
+            "ulid": 2,
+            "id": 2
+          },
+          {
+            "label": "Expédier à des particuliers",
+            "state": false,
+            "ulid": 3,
+            "id": 3
+          },
+          {
+            "label": "Expédier à une adresse pré-définie",
+            "state": true,
+            "ulid": 4,
+            "id": 4
+          },
+          {
+            "label": "Prix au forfait",
+            "state": false,
+            "ulid": 5,
+            "id": 5
+          }
+        ]
+      },
+      {
+        "ulid": 2,
+        "id":2,
+        "name": "Erin Muller",
+        "logo": "http://placeimg.com/640/480",
+        "email": "Cassidy_Gorczany@gmail.com",
+        "contact": "317.514.3314",
+        "state": false,
+        "company": "Barbados",
+        "address": "80568 Webster Pass",
+        "createdAt": "2021-10-11T12:03:51.858Z",
+        "users": [
+          {
+            "createdAt": "2021-10-12T07:26:30.949Z",
+            "name": "Casey Graham",
+            "avatar": "https://cdn.fakercloud.com/avatars/Shriiiiimp_128.jpg",
+            "money": "274.42",
+            "synchronisation": "2024-10-12T22:56:31.963Z",
+            "ulid": 5,
+            "id": 5
+          },
+          {
+            "createdAt": "2021-10-12T08:38:53.795Z",
+            "name": "Elena Ledner",
+            "avatar": "https://cdn.fakercloud.com/avatars/waghner_128.jpg",
+            "money": "498.35",
+            "synchronisation": "2092-07-04T06:50:12.639Z",
+            "ulid": 6,
+            "id": 6
+          }
+        ],
+        "comments": [
+          {
+            "createdAt": "2021-10-12T05:59:27.068Z",
+            "username": "Kevin Ziemann",
+            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+            "content": "est laborum architecto",
+            "companyName": "Sauer LLC",
+            "role": "role 1",
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "createdAt": "2021-10-11T18:22:27.997Z",
+            "username": "Frankie Ratke",
+            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
+            "content": "ea ea tenetur",
+            "companyName": "Rau and Sons",
+            "role": "role 2",
+            "ulid": 2,
+            "id": 2
+          }
+        ],
+        "permissions": [
+          {
+            "label": "Recevoir les emails de création de colis",
+            "state": true,
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "label": "Recevoir les sms de création de colis",
+            "state": true,
+            "ulid": 2,
+            "id": 2
+          },
+          {
+            "label": "Expédier à des particuliers",
+            "state": false,
+            "ulid": 3,
+            "id": 3
+          },
+          {
+            "label": "Expédier à une adresse pré-définie",
+            "state": true,
+            "ulid": 4,
+            "id": 4
+          },
+          {
+            "label": "Prix au forfait",
+            "state": false,
+            "ulid": 5,
+            "id": 5
+          }
+        ]
+      },
+      {
+        "ulid": 3,
+        "id":3,
+        "name": "Brendan Herman",
+        "logo": "http://placeimg.com/640/480",
+        "email": "Adrienne_Heidenreich74@hotmail.com",
+        "contact": "1-311-425-9248 x5948",
+        "state": true,
+        "company": "Macedonia",
+        "address": "1774 Clarabelle Falls",
+        "createdAt": "2021-10-11T13:40:07.027Z",
+        "users": [
+          {
+            "createdAt": "2021-10-11T14:21:28.355Z",
+            "name": "Marcus Batz",
+            "avatar": "https://cdn.fakercloud.com/avatars/mwarkentin_128.jpg",
+            "money": "861.54",
+            "synchronisation": "2058-12-13T21:25:19.863Z",
+            "ulid": 3,
+            "id": 3
+          },
+          {
+            "createdAt": "2021-10-12T06:40:08.781Z",
+            "name": "Brooke Lindgren PhD",
+            "avatar": "https://cdn.fakercloud.com/avatars/serefka_128.jpg",
+            "money": "607.63",
+            "synchronisation": "2078-08-30T16:05:00.469Z",
+            "ulid": 4,
+            "id": 4
+          }
+        ],
+        "comments": [
+          {
+            "createdAt": "2021-10-12T05:59:27.068Z",
+            "username": "Kevin Ziemann",
+            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+            "content": "est laborum architecto",
+            "companyName": "Sauer LLC",
+            "role": "role 1",
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "createdAt": "2021-10-11T18:22:27.997Z",
+            "username": "Frankie Ratke",
+            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
+            "content": "ea ea tenetur",
+            "companyName": "Rau and Sons",
+            "role": "role 2",
+            "ulid": 2,
+            "id": 2
+          }
+        ],
+        "permissions": [
+          {
+            "label": "Recevoir les emails de création de colis",
+            "state": false,
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "label": "Recevoir les sms de création de colis",
+            "state": true,
+            "ulid": 2,
+            "id": 2
+          },
+          {
+            "label": "Expédier à des particuliers",
+            "state": true,
+            "ulid": 3,
+            "id": 3
+          },
+          {
+            "label": "Expédier à une adresse pré-définie",
+            "state": true,
+            "ulid": 4,
+            "id": 4
+          },
+          {
+            "label": "Prix au forfait",
+            "state": false,
+            "ulid": 5,
+            "id": 5
+          }
+        ]
+      },
+      {
+        "ulid": 4,
+        "id":4,
+        "name": "Olivia Swaniawski",
+        "logo": "http://placeimg.com/640/480",
+        "email": "Mckenna20@yahoo.com",
+        "contact": "914.330.0669 x670",
+        "state": false,
+        "company": "Bahamas",
+        "address": "6620 Hickle Pines",
+        "createdAt": "2021-10-11T19:16:40.766Z",
+        "users": [
+          {
+            "createdAt": "2021-10-11T14:21:28.355Z",
+            "name": "Marcus Batz",
+            "avatar": "https://cdn.fakercloud.com/avatars/mwarkentin_128.jpg",
+            "money": "861.54",
+            "synchronisation": "2058-12-13T21:25:19.863Z",
+            "ulid": 3,
+            "id": 3
+          }
+        ],
+        "comments": [
+          {
+            "createdAt": "2021-10-12T05:59:27.068Z",
+            "username": "Kevin Ziemann",
+            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+            "content": "est laborum architecto",
+            "companyName": "Sauer LLC",
+            "role": "role 1",
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "createdAt": "2021-10-11T18:22:27.997Z",
+            "username": "Frankie Ratke",
+            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
+            "content": "ea ea tenetur",
+            "companyName": "Rau and Sons",
+            "role": "role 2",
+            "ulid": 2,
+            "id": 2
+          }
+        ],
+        "permissions": [
+          {
+            "label": "Recevoir les emails de création de colis",
+            "state": true,
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "label": "Recevoir les sms de création de colis",
+            "state": true,
+            "ulid": 2,
+            "id": 2
+          },
+          {
+            "label": "Expédier à des particuliers",
+            "state": true,
+            "ulid": 3,
+            "id": 3
+          },
+          {
+            "label": "Expédier à une adresse pré-définie",
+            "state": true,
+            "ulid": 4,
+            "id": 4
+          },
+          {
+            "label": "Prix au forfait",
+            "state": false,
+            "ulid": 5,
+            "id": 5
+          }
+        ]
+      },
+      {
+        "ulid": 5,
+        "id":5,
+        "name": "Peter Wolf",
+        "logo": "http://placeimg.com/640/480",
+        "email": "Dakota4@gmail.com",
+        "contact": "1-670-599-8861 x3926",
+        "state": true,
+        "company": "Solomon Islands",
+        "address": "560 Christy Garden",
+        "createdAt": "2021-10-12T00:41:08.308Z",
+        "users": [
+          {
+            "createdAt": "2021-10-12T06:40:08.781Z",
+            "name": "Brooke Lindgren PhD",
+            "avatar": "https://cdn.fakercloud.com/avatars/serefka_128.jpg",
+            "money": "607.63",
+            "synchronisation": "2078-08-30T16:05:00.469Z",
+            "ulid": 4,
+            "id": 4
+          },
+          {
+            "createdAt": "2021-10-12T07:26:30.949Z",
+            "name": "Casey Graham",
+            "avatar": "https://cdn.fakercloud.com/avatars/Shriiiiimp_128.jpg",
+            "money": "274.42",
+            "synchronisation": "2024-10-12T22:56:31.963Z",
+            "ulid": 5,
+            "id": 5
+          }
+        ],
+        "comments": [
+          {
+            "createdAt": "2021-10-12T05:59:27.068Z",
+            "username": "Kevin Ziemann",
+            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+            "content": "est laborum architecto",
+            "companyName": "Sauer LLC",
+            "role": "role 1",
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "createdAt": "2021-10-11T18:22:27.997Z",
+            "username": "Frankie Ratke",
+            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
+            "content": "ea ea tenetur",
+            "companyName": "Rau and Sons",
+            "role": "role 2",
+            "ulid": 2,
+            "id": 2
+          }
+        ],
+        "permissions": [
+          {
+            "label": "Recevoir les emails de création de colis",
+            "state": true,
+            "ulid": 1,
+            "id": 1
+          },
+          {
+            "label": "Recevoir les sms de création de colis",
+            "state": true,
+            "ulid": 2,
+            "id": 2
+          },
+          {
+            "label": "Expédier à des particuliers",
+            "state": true,
+            "ulid": 3,
+            "id": 3
+          },
+          {
+            "label": "Expédier à une adresse pré-définie",
+            "state": true,
+            "ulid": 4,
+            "id": 4
+          },
+          {
+            "label": "Prix au forfait",
+            "state": true,
+            "ulid": 5,
+            "id": 5
+          }
+        ]
+      }
+    ]
+}
