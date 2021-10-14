@@ -20,15 +20,6 @@
             "synchronisation": "2082-09-21T07:59:56.518Z",
             "ulid": 1,
             "id": 1
-          },
-          {
-            "createdAt": "2021-10-12T06:16:51.289Z",
-            "name": "Betsy Bins",
-            "avatar": "https://cdn.fakercloud.com/avatars/hiemil_128.jpg",
-            "money": "521.85",
-            "synchronisation": "2064-01-04T10:16:04.375Z",
-            "ulid": 2,
-            "id": 2
           }
         ],
         "comments": [
@@ -41,16 +32,6 @@
             "role": "role 1",
             "ulid": 1,
             "id": 1
-          },
-          {
-            "createdAt": "2021-10-11T18:22:27.997Z",
-            "username": "Frankie Ratke",
-            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
-            "content": "ea ea tenetur",
-            "companyName": "Rau and Sons",
-            "role": "role 2",
-            "ulid": 2,
-            "id": 2
           }
         ],
         "permissions": [
@@ -106,15 +87,6 @@
             "synchronisation": "2024-10-12T22:56:31.963Z",
             "ulid": 5,
             "id": 5
-          },
-          {
-            "createdAt": "2021-10-12T08:38:53.795Z",
-            "name": "Elena Ledner",
-            "avatar": "https://cdn.fakercloud.com/avatars/waghner_128.jpg",
-            "money": "498.35",
-            "synchronisation": "2092-07-04T06:50:12.639Z",
-            "ulid": 6,
-            "id": 6
           }
         ],
         "comments": [
@@ -127,16 +99,6 @@
             "role": "role 1",
             "ulid": 1,
             "id": 1
-          },
-          {
-            "createdAt": "2021-10-11T18:22:27.997Z",
-            "username": "Frankie Ratke",
-            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
-            "content": "ea ea tenetur",
-            "companyName": "Rau and Sons",
-            "role": "role 2",
-            "ulid": 2,
-            "id": 2
           }
         ],
         "permissions": [
@@ -192,15 +154,6 @@
             "synchronisation": "2058-12-13T21:25:19.863Z",
             "ulid": 3,
             "id": 3
-          },
-          {
-            "createdAt": "2021-10-12T06:40:08.781Z",
-            "name": "Brooke Lindgren PhD",
-            "avatar": "https://cdn.fakercloud.com/avatars/serefka_128.jpg",
-            "money": "607.63",
-            "synchronisation": "2078-08-30T16:05:00.469Z",
-            "ulid": 4,
-            "id": 4
           }
         ],
         "comments": [
@@ -213,16 +166,6 @@
             "role": "role 1",
             "ulid": 1,
             "id": 1
-          },
-          {
-            "createdAt": "2021-10-11T18:22:27.997Z",
-            "username": "Frankie Ratke",
-            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
-            "content": "ea ea tenetur",
-            "companyName": "Rau and Sons",
-            "role": "role 2",
-            "ulid": 2,
-            "id": 2
           }
         ],
         "permissions": [
@@ -290,16 +233,6 @@
             "role": "role 1",
             "ulid": 1,
             "id": 1
-          },
-          {
-            "createdAt": "2021-10-11T18:22:27.997Z",
-            "username": "Frankie Ratke",
-            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
-            "content": "ea ea tenetur",
-            "companyName": "Rau and Sons",
-            "role": "role 2",
-            "ulid": 2,
-            "id": 2
           }
         ],
         "permissions": [
@@ -355,15 +288,6 @@
             "synchronisation": "2078-08-30T16:05:00.469Z",
             "ulid": 4,
             "id": 4
-          },
-          {
-            "createdAt": "2021-10-12T07:26:30.949Z",
-            "name": "Casey Graham",
-            "avatar": "https://cdn.fakercloud.com/avatars/Shriiiiimp_128.jpg",
-            "money": "274.42",
-            "synchronisation": "2024-10-12T22:56:31.963Z",
-            "ulid": 5,
-            "id": 5
           }
         ],
         "comments": [
@@ -376,16 +300,6 @@
             "role": "role 1",
             "ulid": 1,
             "id": 1
-          },
-          {
-            "createdAt": "2021-10-11T18:22:27.997Z",
-            "username": "Frankie Ratke",
-            "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg",
-            "content": "ea ea tenetur",
-            "companyName": "Rau and Sons",
-            "role": "role 2",
-            "ulid": 2,
-            "id": 2
           }
         ],
         "permissions": [
