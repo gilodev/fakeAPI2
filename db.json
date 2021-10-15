@@ -29,9 +29,19 @@
             "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
             "content": "est laborum architecto",
             "companyName": "Sauer LLC",
-            "role": "role 1",
+            "role": "Manager",
             "ulid": 1,
             "id": 1
+          },
+           {
+            "createdAt": 1634299125026,
+            "username": "Kevin Ziemann",
+            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+            "content": "est laborum architecto",
+            "companyName": "Sauer LLC",
+            "role": "Admin",
+            "ulid": 2,
+            "id": 2
           }
         ],
         "permissions": [
