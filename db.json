@@ -29,7 +29,7 @@
             "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
             "content": "est laborum architecto",
             "companyName": "Sauer LLC",
-            "role": "Manager",
+            "app": "KOTManager",
             "ulid": 1,
             "id": 1
           },
@@ -39,7 +39,7 @@
             "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
             "content": "est laborum architecto",
             "companyName": "Sauer LLC",
-            "role": "Admin",
+            "app": "KOTAdmin",
             "ulid": 2,
             "id": 2
           }
@@ -106,7 +106,7 @@
             "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
             "content": "est laborum architecto",
             "companyName": "Sauer LLC",
-            "role": "role 1",
+             "app": "KOTManager",
             "ulid": 1,
             "id": 1
           }
@@ -173,7 +173,7 @@
             "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
             "content": "est laborum architecto",
             "companyName": "Sauer LLC",
-            "role": "role 1",
+             "app": "KOTAdmin",
             "ulid": 1,
             "id": 1
           }
@@ -240,7 +240,7 @@
             "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
             "content": "est laborum architecto",
             "companyName": "Sauer LLC",
-            "role": "role 1",
+            "app": "KOTManager",
             "ulid": 1,
             "id": 1
           }
@@ -307,7 +307,7 @@
             "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
             "content": "est laborum architecto",
             "companyName": "Sauer LLC",
-            "role": "role 1",
+             "app": "KOTAdmin",
             "ulid": 1,
             "id": 1
           }
