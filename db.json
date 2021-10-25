@@ -1,360 +1,359 @@
 {
-   "customers" : [
-      {
-        "ulid": 1,
-        "id":1,
-        "name": "Mabel Beatty",
-        "logo": "http://placeimg.com/640/480",
-        "email": "Frida94@yahoo.com",
-        "contact": "749-357-0599 x7079",
-        "state": true,
-        "company": "Jamaica",
-        "address": "629 Edd Ramp",
-        "createdAt": 1634299125026,
-        "users": [
-          {
-            "createdAt": 1634299125026,
-            "name": "Tom Mann",
-            "avatar": "https://cdn.fakercloud.com/avatars/weglov_128.jpg",
-            "money": "687.71",
-            "synchronisation": "2082-09-21T07:59:56.518Z",
-            "ulid": 1,
-            "id": 1
-          }
-        ],
-        "comments": [
-          {
-            "createdAt": 1634634713,
-            "username": "Kevin Ziemann",
-            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
-            "content": "est laborum architecto",
-            "companyName": "Sauer LLC",
-            "app": "KOTManager",
-            "ulid": 1,
-            "id": 1
-          },
-           {
-            "createdAt": 1634634713,
-            "username": "Kevin Ziemann",
-            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
-            "content": "est laborum architecto",
-            "companyName": "Sauer LLC",
-            "app": "KOTAdmin",
-            "ulid": 2,
-            "id": 2
-          }
-           ,
-           {
-            "createdAt": 1634634713,
-            "username": "Kevin Ziemann",
-            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
-            "content": "est laborum architecto",
-            "companyName": "Sauer LLC",
-            "app": "KOTAdmin",
-            "ulid": 3,
-            "id": 2
-          }
-        ],
-        "permissions": [
-           {
-            "label": "Recevoir les sms de création de colis",
-            "state": true,
-            "ulid": 2,
-            "id": 2
-          },
-          {
-            "label": "Recevoir les emails de création de colis",
-            "state": false,
-            "ulid": 1,
-            "id": 1
-          },
-          {
-            "label": "Expédier à des particuliers",
-            "state": false,
-            "ulid": 3,
-            "id": 3
-          },
-          {
-            "label": "Expédier à une adresse pré-définie",
-            "state": true,
-            "ulid": 4,
-            "id": 4
-          },
-          {
-            "label": "Prix au forfait",
-            "state": false,
-            "ulid": 5,
-            "id": 5
-          }
-        ]
-      },
-      {
-        "ulid": 2,
-        "id":2,
-        "name": "Erin Muller",
-        "logo": "http://placeimg.com/640/480",
-        "email": "Cassidy_Gorczany@gmail.com",
-        "contact": "317.514.3314",
-        "state": false,
-        "company": "Barbados",
-        "address": "80568 Webster Pass",
-        "createdAt": 1634299125026,
-        "users": [
-          {
-            "createdAt": 1634299125026,
-            "name": "Casey Graham",
-            "avatar": "https://cdn.fakercloud.com/avatars/Shriiiiimp_128.jpg",
-            "money": "274.42",
-            "synchronisation": "2024-10-12T22:56:31.963Z",
-            "ulid": 5,
-            "id": 5
-          }
-        ],
-        "comments": [
-          {
-            "createdAt": 1634299125026,
-            "username": "Kevin Ziemann",
-            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
-            "content": "est laborum architecto",
-            "companyName": "Sauer LLC",
-             "app": "KOTManager",
-            "ulid": 1,
-            "id": 1
-          }
-        ],
-        "permissions": [
-           {
-            "label": "Recevoir les sms de création de colis",
-            "state": true,
-            "ulid": 2,
-            "id": 2
-          },
-          {
-            "label": "Recevoir les emails de création de colis",
-            "state": true,
-            "ulid": 1,
-            "id": 1
-          },
-          {
-            "label": "Expédier à des particuliers",
-            "state": false,
-            "ulid": 3,
-            "id": 3
-          },
-          {
-            "label": "Expédier à une adresse pré-définie",
-            "state": true,
-            "ulid": 4,
-            "id": 4
-          },
-          {
-            "label": "Prix au forfait",
-            "state": false,
-            "ulid": 5,
-            "id": 5
-          }
-        ]
-      },
-      {
-        "ulid": 3,
-        "id":3,
-        "name": "Brendan Herman",
-        "logo": "http://placeimg.com/640/480",
-        "email": "Adrienne_Heidenreich74@hotmail.com",
-        "contact": "1-311-425-9248 x5948",
-        "state": true,
-        "company": "Macedonia",
-        "address": "1774 Clarabelle Falls",
-        "createdAt": 1634299125026,
-        "users": [
-          {
-            "createdAt": 1634299125026,
-            "name": "Marcus Batz",
-            "avatar": "https://cdn.fakercloud.com/avatars/mwarkentin_128.jpg",
-            "money": "861.54",
-            "synchronisation": "2058-12-13T21:25:19.863Z",
-            "ulid": 3,
-            "id": 3
-          }
-        ],
-        "comments": [
-          {
-            "createdAt":1634299125026,
-            "username": "Kevin Ziemann",
-            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
-            "content": "est laborum architecto",
-            "companyName": "Sauer LLC",
-             "app": "KOTAdmin",
-            "ulid": 1,
-            "id": 1
-          }
-        ],
-        "permissions": [
-           {
-            "label": "Recevoir les sms de création de colis",
-            "state": true,
-            "ulid": 2,
-            "id": 2
-          },
-          {
-            "label": "Recevoir les emails de création de colis",
-            "state": false,
-            "ulid": 1,
-            "id": 1
-          },
-          {
-            "label": "Expédier à des particuliers",
-            "state": true,
-            "ulid": 3,
-            "id": 3
-          },
-          {
-            "label": "Expédier à une adresse pré-définie",
-            "state": true,
-            "ulid": 4,
-            "id": 4
-          },
-          {
-            "label": "Prix au forfait",
-            "state": false,
-            "ulid": 5,
-            "id": 5
-          }
-        ]
-      },
-      {
-        "ulid": 4,
-        "id":4,
-        "name": "Olivia Swaniawski",
-        "logo": "http://placeimg.com/640/480",
-        "email": "Mckenna20@yahoo.com",
-        "contact": "914.330.0669 x670",
-        "state": false,
-        "company": "Bahamas",
-        "address": "6620 Hickle Pines",
-        "createdAt": 1634299125026,
-        "users": [
-          {
-            "createdAt": 1634299125026,
-            "name": "Marcus Batz",
-            "avatar": "https://cdn.fakercloud.com/avatars/mwarkentin_128.jpg",
-            "money": "861.54",
-            "synchronisation": "2058-12-13T21:25:19.863Z",
-            "ulid": 3,
-            "id": 3
-          }
-        ],
-        "comments": [
-          {
-            "createdAt": 1634299125026,
-            "username": "Kevin Ziemann",
-            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
-            "content": "est laborum architecto",
-            "companyName": "Sauer LLC",
-            "app": "KOTManager",
-            "ulid": 1,
-            "id": 1
-          }
-        ],
-        "permissions": [
-           {
-            "label": "Recevoir les sms de création de colis",
-            "state": true,
-            "ulid": 2,
-            "id": 2
-          },
-          {
-            "label": "Recevoir les emails de création de colis",
-            "state": true,
-            "ulid": 1,
-            "id": 1
-          },
-          {
-            "label": "Expédier à des particuliers",
-            "state": true,
-            "ulid": 3,
-            "id": 3
-          },
-          {
-            "label": "Expédier à une adresse pré-définie",
-            "state": true,
-            "ulid": 4,
-            "id": 4
-          },
-          {
-            "label": "Prix au forfait",
-            "state": false,
-            "ulid": 5,
-            "id": 5
-          }
-        ]
-      },
-      {
-        "ulid": 5,
-        "id":5,
-        "name": "Peter Wolf",
-        "logo": "http://placeimg.com/640/480",
-        "email": "Dakota4@gmail.com",
-        "contact": "1-670-599-8861 x3926",
-        "state": true,
-        "company": "Solomon Islands",
-        "address": "560 Christy Garden",
-        "createdAt": 1634299125026,
-        "users": [
-          {
-            "createdAt": 1634299125026,
-            "name": "Brooke Lindgren PhD",
-            "avatar": "https://cdn.fakercloud.com/avatars/serefka_128.jpg",
-            "money": "607.63",
-            "synchronisation": "2078-08-30T16:05:00.469Z",
-            "ulid": 4,
-            "id": 4
-          }
-        ],
-        "comments": [
-          {
-            "createdAt": 1634299125026,
-            "username": "Kevin Ziemann",
-            "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
-            "content": "est laborum architecto",
-            "companyName": "Sauer LLC",
-             "app": "KOTAdmin",
-            "ulid": 1,
-            "id": 1
-          }
-        ],
-        "permissions": [
-           {
-            "label": "Recevoir les sms de création de colis",
-            "state": true,
-            "ulid": 2,
-            "id": 2
-          },
-          {
-            "label": "Recevoir les emails de création de colis",
-            "state": true,
-            "ulid": 1,
-            "id": 1
-          },
-          {
-            "label": "Expédier à des particuliers",
-            "state": true,
-            "ulid": 3,
-            "id": 3
-          },
-          {
-            "label": "Expédier à une adresse pré-définie",
-            "state": true,
-            "ulid": 4,
-            "id": 4
-          },
-          {
-            "label": "Prix au forfait",
-            "state": true,
-            "ulid": 5,
-            "id": 5
-          }
-        ]
-      }
-    ]
+  "customers": [
+    {
+      "ulid": 1,
+      "id": 1,
+      "name": "Mabel Beatty",
+      "logo": "http://placeimg.com/640/480",
+      "email": "Frida94@yahoo.com",
+      "contact": "749-357-0599 x7079",
+      "state": true,
+      "company": "Jamaica",
+      "address": "629 Edd Ramp",
+      "createdAt": 1634299125026,
+      "users": [
+        {
+          "createdAt": 1634299125026,
+          "name": "Tom Mann",
+          "avatar": "https://cdn.fakercloud.com/avatars/weglov_128.jpg",
+          "money": "687.71",
+          "synchronisation": "2082-09-21T07:59:56.518Z",
+          "ulid": 1,
+          "id": 1
+        }
+      ],
+      "comments": [
+        {
+          "createdAt": 1634634713,
+          "username": "Kevin Ziemann",
+          "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+          "content": "est laborum architecto",
+          "companyName": "Sauer LLC",
+          "app": "KOTManager",
+          "ulid": 1,
+          "id": 1
+        },
+        {
+          "createdAt": 1634634713,
+          "username": "Kevin Ziemann",
+          "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+          "content": "est laborum architecto",
+          "companyName": "Sauer LLC",
+          "app": "KOTAdmin",
+          "ulid": 2,
+          "id": 2
+        },
+        {
+          "createdAt": 1634634713,
+          "username": "Kevin Ziemann",
+          "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+          "content": "est laborum architecto",
+          "companyName": "Sauer LLC",
+          "app": "KOTAdmin",
+          "ulid": 3,
+          "id": 2
+        }
+      ],
+      "permissions": [
+        {
+          "label": "Recevoir les sms de création de colis",
+          "state": false,
+          "ulid": 1,
+          "id": 1
+        },
+        {
+          "label": "Recevoir les emails de création de colis",
+          "state": true,
+          "ulid": 2,
+          "id": 2
+        },
+        {
+          "label": "Expédier à des particuliers",
+          "state": false,
+          "ulid": 3,
+          "id": 3
+        },
+        {
+          "label": "Expédier à une adresse pré-définie",
+          "state": true,
+          "ulid": 4,
+          "id": 4
+        },
+        {
+          "label": "Prix au forfait",
+          "state": false,
+          "ulid": 5,
+          "id": 5
+        }
+      ]
+    },
+    {
+      "ulid": 2,
+      "id": 2,
+      "name": "Erin Muller",
+      "logo": "http://placeimg.com/640/480",
+      "email": "Cassidy_Gorczany@gmail.com",
+      "contact": "317.514.3314",
+      "state": false,
+      "company": "Barbados",
+      "address": "80568 Webster Pass",
+      "createdAt": 1634299125026,
+      "users": [
+        {
+          "createdAt": 1634299125026,
+          "name": "Casey Graham",
+          "avatar": "https://cdn.fakercloud.com/avatars/Shriiiiimp_128.jpg",
+          "money": "274.42",
+          "synchronisation": "2024-10-12T22:56:31.963Z",
+          "ulid": 5,
+          "id": 5
+        }
+      ],
+      "comments": [
+        {
+          "createdAt": 1634299125026,
+          "username": "Kevin Ziemann",
+          "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+          "content": "est laborum architecto",
+          "companyName": "Sauer LLC",
+          "app": "KOTManager",
+          "ulid": 1,
+          "id": 1
+        }
+      ],
+      "permissions": [
+        {
+          "label": "Recevoir les sms de création de colis",
+          "state": true,
+          "ulid": 1,
+          "id": 1
+        },
+        {
+          "label": "Recevoir les emails de création de colis",
+          "state": true,
+          "ulid": 2,
+          "id": 2
+        },
+        {
+          "label": "Expédier à des particuliers",
+          "state": false,
+          "ulid": 3,
+          "id": 3
+        },
+        {
+          "label": "Expédier à une adresse pré-définie",
+          "state": true,
+          "ulid": 4,
+          "id": 4
+        },
+        {
+          "label": "Prix au forfait",
+          "state": false,
+          "ulid": 5,
+          "id": 5
+        }
+      ]
+    },
+    {
+      "ulid": 3,
+      "id": 3,
+      "name": "Brendan Herman",
+      "logo": "http://placeimg.com/640/480",
+      "email": "Adrienne_Heidenreich74@hotmail.com",
+      "contact": "1-311-425-9248 x5948",
+      "state": true,
+      "company": "Macedonia",
+      "address": "1774 Clarabelle Falls",
+      "createdAt": 1634299125026,
+      "users": [
+        {
+          "createdAt": 1634299125026,
+          "name": "Marcus Batz",
+          "avatar": "https://cdn.fakercloud.com/avatars/mwarkentin_128.jpg",
+          "money": "861.54",
+          "synchronisation": "2058-12-13T21:25:19.863Z",
+          "ulid": 3,
+          "id": 3
+        }
+      ],
+      "comments": [
+        {
+          "createdAt": 1634299125026,
+          "username": "Kevin Ziemann",
+          "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+          "content": "est laborum architecto",
+          "companyName": "Sauer LLC",
+          "app": "KOTAdmin",
+          "ulid": 1,
+          "id": 1
+        }
+      ],
+      "permissions": [
+        {
+          "label": "Recevoir les sms de création de colis",
+          "state": false,
+          "ulid": 1,
+          "id": 1
+        },
+        {
+          "label": "Recevoir les emails de création de colis",
+          "state": true,
+          "ulid": 2,
+          "id": 2
+        },
+        {
+          "label": "Expédier à des particuliers",
+          "state": true,
+          "ulid": 3,
+          "id": 3
+        },
+        {
+          "label": "Expédier à une adresse pré-définie",
+          "state": true,
+          "ulid": 4,
+          "id": 4
+        },
+        {
+          "label": "Prix au forfait",
+          "state": false,
+          "ulid": 5,
+          "id": 5
+        }
+      ]
+    },
+    {
+      "ulid": 4,
+      "id": 4,
+      "name": "Olivia Swaniawski",
+      "logo": "http://placeimg.com/640/480",
+      "email": "Mckenna20@yahoo.com",
+      "contact": "914.330.0669 x670",
+      "state": false,
+      "company": "Bahamas",
+      "address": "6620 Hickle Pines",
+      "createdAt": 1634299125026,
+      "users": [
+        {
+          "createdAt": 1634299125026,
+          "name": "Marcus Batz",
+          "avatar": "https://cdn.fakercloud.com/avatars/mwarkentin_128.jpg",
+          "money": "861.54",
+          "synchronisation": "2058-12-13T21:25:19.863Z",
+          "ulid": 3,
+          "id": 3
+        }
+      ],
+      "comments": [
+        {
+          "createdAt": 1634299125026,
+          "username": "Kevin Ziemann",
+          "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+          "content": "est laborum architecto",
+          "companyName": "Sauer LLC",
+          "app": "KOTManager",
+          "ulid": 1,
+          "id": 1
+        }
+      ],
+      "permissions": [
+        {
+          "label": "Recevoir les sms de création de colis",
+          "state": true,
+          "ulid": 1,
+          "id": 1
+        },
+        {
+          "label": "Recevoir les emails de création de colis",
+          "state": true,
+          "ulid": 2,
+          "id": 2
+        },
+        {
+          "label": "Expédier à des particuliers",
+          "state": true,
+          "ulid": 3,
+          "id": 3
+        },
+        {
+          "label": "Expédier à une adresse pré-définie",
+          "state": true,
+          "ulid": 4,
+          "id": 4
+        },
+        {
+          "label": "Prix au forfait",
+          "state": false,
+          "ulid": 5,
+          "id": 5
+        }
+      ]
+    },
+    {
+      "ulid": 5,
+      "id": 5,
+      "name": "Peter Wolf",
+      "logo": "http://placeimg.com/640/480",
+      "email": "Dakota4@gmail.com",
+      "contact": "1-670-599-8861 x3926",
+      "state": true,
+      "company": "Solomon Islands",
+      "address": "560 Christy Garden",
+      "createdAt": 1634299125026,
+      "users": [
+        {
+          "createdAt": 1634299125026,
+          "name": "Brooke Lindgren PhD",
+          "avatar": "https://cdn.fakercloud.com/avatars/serefka_128.jpg",
+          "money": "607.63",
+          "synchronisation": "2078-08-30T16:05:00.469Z",
+          "ulid": 4,
+          "id": 4
+        }
+      ],
+      "comments": [
+        {
+          "createdAt": 1634299125026,
+          "username": "Kevin Ziemann",
+          "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+          "content": "est laborum architecto",
+          "companyName": "Sauer LLC",
+          "app": "KOTAdmin",
+          "ulid": 1,
+          "id": 1
+        }
+      ],
+      "permissions": [
+        {
+          "label": "Recevoir les sms de création de colis",
+          "state": true,
+          "ulid": 1,
+          "id": 1
+        },
+        {
+          "label": "Recevoir les emails de création de colis",
+          "state": true,
+          "ulid": 2,
+          "id": 2
+        },
+        {
+          "label": "Expédier à des particuliers",
+          "state": true,
+          "ulid": 3,
+          "id": 3
+        },
+        {
+          "label": "Expédier à une adresse pré-définie",
+          "state": true,
+          "ulid": 4,
+          "id": 4
+        },
+        {
+          "label": "Prix au forfait",
+          "state": true,
+          "ulid": 5,
+          "id": 5
+        }
+      ]
+    }
+  ]
 }
