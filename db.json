@@ -56,13 +56,13 @@
       ],
       "permissions": [
         {
-          "label": "Recevoir les sms de création de colis",
+          "label": "Recevoir les SMS de création de colis",
           "state": false,
           "ulid": 1,
           "id": 1
         },
         {
-          "label": "Recevoir les emails de création de colis",
+          "label": "Recevoir les e-mails de création de colis",
           "state": true,
           "ulid": 2,
           "id": 2
@@ -74,7 +74,7 @@
           "id": 3
         },
         {
-          "label": "Expédier à une adresse pré-définie",
+          "label": "Expédier à une adresse prédéfinie",
           "state": true,
           "ulid": 4,
           "id": 4
@@ -123,13 +123,13 @@
       ],
       "permissions": [
         {
-          "label": "Recevoir les sms de création de colis",
+          "label": "Recevoir les SMS de création de colis",
           "state": true,
           "ulid": 1,
           "id": 1
         },
         {
-          "label": "Recevoir les emails de création de colis",
+          "label": "Recevoir les e-mails de création de colis",
           "state": true,
           "ulid": 2,
           "id": 2
@@ -141,7 +141,7 @@
           "id": 3
         },
         {
-          "label": "Expédier à une adresse pré-définie",
+          "label": "Expédier à une adresse prédéfinie",
           "state": true,
           "ulid": 4,
           "id": 4
@@ -190,13 +190,13 @@
       ],
       "permissions": [
         {
-          "label": "Recevoir les sms de création de colis",
+          "label": "Recevoir les SMS de création de colis",
           "state": false,
           "ulid": 1,
           "id": 1
         },
         {
-          "label": "Recevoir les emails de création de colis",
+          "label": "Recevoir les e-mails de création de colis",
           "state": true,
           "ulid": 2,
           "id": 2
@@ -208,7 +208,7 @@
           "id": 3
         },
         {
-          "label": "Expédier à une adresse pré-définie",
+          "label": "Expédier à une adresse prédéfinie",
           "state": true,
           "ulid": 4,
           "id": 4
@@ -257,13 +257,13 @@
       ],
       "permissions": [
         {
-          "label": "Recevoir les sms de création de colis",
+          "label": "Recevoir les SMS de création de colis",
           "state": true,
           "ulid": 1,
           "id": 1
         },
         {
-          "label": "Recevoir les emails de création de colis",
+          "label": "Recevoir les e-mails de création de colis",
           "state": true,
           "ulid": 2,
           "id": 2
@@ -275,7 +275,7 @@
           "id": 3
         },
         {
-          "label": "Expédier à une adresse pré-définie",
+          "label": "Expédier à une adresse prédéfinie",
           "state": true,
           "ulid": 4,
           "id": 4
@@ -324,13 +324,13 @@
       ],
       "permissions": [
         {
-          "label": "Recevoir les sms de création de colis",
+          "label": "Recevoir les SMS de création de colis",
           "state": true,
           "ulid": 1,
           "id": 1
         },
         {
-          "label": "Recevoir les emails de création de colis",
+          "label": "Recevoir les e-mails de création de colis",
           "state": true,
           "ulid": 2,
           "id": 2
@@ -342,7 +342,7 @@
           "id": 3
         },
         {
-          "label": "Expédier à une adresse pré-définie",
+          "label": "Expédier à une adresse prédéfinie",
           "state": true,
           "ulid": 4,
           "id": 4
